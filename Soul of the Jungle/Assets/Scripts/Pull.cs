@@ -5,13 +5,14 @@ using UnityEngine;
 public class Pull : MonoBehaviour
 {
 
-    public GameObject body;
-
     public SteamVR_TrackedObject controller;
+
+    public float jumpForce = 1.2f;
 
     [HideInInspector]
     public Vector3 prevPos;
 
+    [HideInInspector]
     public bool canGrip;
 
 	// Use this for initialization
@@ -19,21 +20,8 @@ public class Pull : MonoBehaviour
 	{
 	    prevPos = controller.transform.localPosition;
 	}
-	
-	// Update is called once per frame
-	void Update ()
-	{
-	    var device = SteamVR_Controller.Input((int) controller.index);
-	    if (canGrip && device.GetTouch(SteamVR_Controller.ButtonMask.Grip))
-	    {
-	        body.transform.position += (prevPos - controller.transform.localPosition);
-
-	    }
-
-	    prevPos = controller.transform.localPosition;
-	}
-
-    void OnTriggerEnter()
+	//Touching objects that can be gripped
+	void OnTriggerEnter()
     {
         canGrip = true;
     }
