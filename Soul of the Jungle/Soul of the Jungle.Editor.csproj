@@ -275,6 +275,10 @@
       <Project>{6B1C2074-B593-1623-049D-C6F62CCBE43F}</Project>
       <Name>Soul of the Jungle</Name>
     </ProjectReference>
+    <ProjectReference Include="Soul of the Jungle.unityproj">
+      <Project>{6B1C2074-B593-1623-049D-C6F62CCBE43F}</Project>
+      <Name>Soul of the Jungle</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\GreenForest\PostProcessing\Editor\Attributes\PostProcessingModelEditorAttribute.cs" />
