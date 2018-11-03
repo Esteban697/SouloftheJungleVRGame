@@ -12,7 +12,7 @@ public class Pull : MonoBehaviour
     [HideInInspector]
     public Vector3 prevPos;
 
-    [HideInInspector]
+    //[HideInInspector]
     public bool canGrip;
 
 	// Use this for initialization

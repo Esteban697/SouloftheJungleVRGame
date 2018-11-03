@@ -9,5 +9,5 @@ EditorBuildSettings:
     path: Assets/Scenes/VideoIntro.unity
     guid: 402d98a7f144d2c4f8fe4bea4ec9bac0
   - enabled: 1
-    path: Assets/Scenes/Scene01.unity
+    path: Assets/Scenes/Scene1.unity
     guid: ebb738bda8074594dbc9910cd05eafc9
