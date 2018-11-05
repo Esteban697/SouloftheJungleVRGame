@@ -279,6 +279,7 @@
     <Compile Include="Assets\GreenForest\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
     <Compile Include="Assets\GreenForest\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
     <Compile Include="Assets\GreenForest\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
+    <Compile Include="Assets\JessicaHandReached.cs" />
     <Compile Include="Assets\Scripts\ClimbManager.cs" />
     <Compile Include="Assets\Scripts\FrameRateSet.cs" />
     <Compile Include="Assets\Scripts\Pull.cs" />
