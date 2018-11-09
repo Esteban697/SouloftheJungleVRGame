@@ -7,14 +7,13 @@ public class Pull : MonoBehaviour
 {
 
     public SteamVR_TrackedObject controller;
-    
 
-    public float jumpForce = 1.2f;
+    public float jumpForce;
 
     [HideInInspector]
     public Vector3 prevPos;
 
-    //[HideInInspector]
+    [HideInInspector]
     public bool canGrip;
     
 

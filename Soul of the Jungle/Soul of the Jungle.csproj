@@ -226,7 +226,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ChangeScene.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\DecalDestroyer.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ExtinguishableFire.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\GunAim.cs" />
@@ -279,10 +278,17 @@
     <Compile Include="Assets\GreenForest\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
     <Compile Include="Assets\GreenForest\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
     <Compile Include="Assets\GreenForest\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
-    <Compile Include="Assets\JessicaHandReached.cs" />
+    <Compile Include="Assets\Scripts\ChangeScene.cs" />
+    <Compile Include="Assets\Scripts\ChargingArrow.cs" />
+    <Compile Include="Assets\Scripts\ClimbingDynamics.cs" />
+    <Compile Include="Assets\Scripts\ClimbingSounds.cs" />
     <Compile Include="Assets\Scripts\ClimbManager.cs" />
+    <Compile Include="Assets\Scripts\CrosssbowShootHand.cs" />
     <Compile Include="Assets\Scripts\FrameRateSet.cs" />
+    <Compile Include="Assets\Scripts\JessicaHandReached.cs" />
+    <Compile Include="Assets\Scripts\PoolArrows.cs" />
     <Compile Include="Assets\Scripts\Pull.cs" />
+    <Compile Include="Assets\Scripts\RestartClimbPosition.cs" />
     <Compile Include="Assets\Scripts\SceneChanger.cs" />
     <Compile Include="Assets\Scripts\TextFadeBlink.cs" />
     <Compile Include="Assets\Scripts\TriggerHandAnimations.cs" />
