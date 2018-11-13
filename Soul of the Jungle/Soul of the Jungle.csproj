@@ -13,14 +13,12 @@
     <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
-    <CompilerResponseFile>
-    </CompilerResponseFile>
+    <CompilerResponseFile></CompilerResponseFile>
     <UnityProjectGenerator>VSTU</UnityProjectGenerator>
     <UnityProjectType>Game:1</UnityProjectType>
     <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
     <UnityVersion>2017.2.0f3</UnityVersion>
-    <RootNamespace>
-    </RootNamespace>
+    <RootNamespace></RootNamespace>
     <LangVersion>4</LangVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -228,7 +226,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\DeathManager.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\DecalDestroyer.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ExtinguishableFire.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\GunAim.cs" />
@@ -286,16 +283,18 @@
     <Compile Include="Assets\Scripts\ChargingArrow.cs" />
     <Compile Include="Assets\Scripts\ClimbingDynamics.cs" />
     <Compile Include="Assets\Scripts\ClimbingSounds.cs" />
-    <Compile Include="Assets\Scripts\SwingingDynamics.cs" />
     <Compile Include="Assets\Scripts\CrosssbowShootHand.cs" />
+    <Compile Include="Assets\Scripts\DeathManager.cs" />
     <Compile Include="Assets\Scripts\FrameRateSet.cs" />
     <Compile Include="Assets\Scripts\JessicaHandReached.cs" />
     <Compile Include="Assets\Scripts\PoolArrows.cs" />
     <Compile Include="Assets\Scripts\Pull.cs" />
     <Compile Include="Assets\Scripts\RestartClimbPosition.cs" />
     <Compile Include="Assets\Scripts\SceneChanger.cs" />
+    <Compile Include="Assets\Scripts\SpeechRecog.cs" />
     <Compile Include="Assets\Scripts\SpiderBehaviour.cs" />
     <Compile Include="Assets\Scripts\SpiderSpawn.cs" />
+    <Compile Include="Assets\Scripts\SwingingDynamics.cs" />
     <Compile Include="Assets\Scripts\TextFadeBlink.cs" />
     <Compile Include="Assets\Scripts\TriggerHandAnimations.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
