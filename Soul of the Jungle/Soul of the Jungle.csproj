@@ -284,9 +284,13 @@
     <Compile Include="Assets\Scripts\ClimbingDynamics.cs" />
     <Compile Include="Assets\Scripts\ClimbingSounds.cs" />
     <Compile Include="Assets\Scripts\CrosssbowShootHand.cs" />
+    <Compile Include="Assets\Scripts\DartsPicked.cs" />
     <Compile Include="Assets\Scripts\DeathManager.cs" />
     <Compile Include="Assets\Scripts\FrameRateSet.cs" />
+    <Compile Include="Assets\Scripts\GoalReached.cs" />
+    <Compile Include="Assets\Scripts\HitFloorResetScene.cs" />
     <Compile Include="Assets\Scripts\JessicaHandReached.cs" />
+    <Compile Include="Assets\Scripts\LookAtPlayer.cs" />
     <Compile Include="Assets\Scripts\PoolArrows.cs" />
     <Compile Include="Assets\Scripts\Pull.cs" />
     <Compile Include="Assets\Scripts\RestartClimbPosition.cs" />
