@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 579, y: 471}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 138
+  controlID: 13
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -560,28 +560,28 @@ MonoBehaviour:
     height: 582
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a2350000
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 3cfbe7ffc68ceaff36aaecffe0fdf4ff720efaffd41dfaff4c29faff5a40faff64c0fcffc6d2fcff46b8feffa4bdfeff20e8ffffa0fbffff00000000462e0100c451020014530200f2c80200
+    m_ExpandedIDs: cce6ffff9cfbffff000000001ad20000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Directional light
+      m_OriginalName: Directional light
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 54592
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
   m_ExpandedScenes:
-  - 6_Scene4
+  - 8_Scene6
   m_CurrenRootInstanceID: 0
   m_Locked: 1
   m_CurrentSortingName: TransformSorting
@@ -612,14 +612,14 @@ MonoBehaviour:
     width: 1134
     height: 582
   m_SceneLighting: 1
-  lastFramingTime: 6349.94944507686
+  lastFramingTime: 989.0229288017881
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 67.30122, y: 6.0749474, z: 78.81283}
+    m_Target: {x: 94.7416, y: 37.698643, z: 152.93369}
     speed: 2
-    m_Value: {x: 67.30122, y: 6.0749474, z: 78.81283}
+    m_Value: {x: 94.7416, y: 37.698643, z: 152.93369}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -642,13 +642,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.2382411, y: -0.6703375, z: 0.24044326, w: 0.6603741}
+    m_Target: {x: -0.053060237, y: -0.77576333, z: 0.067301445, w: -0.6251982}
     speed: 2
-    m_Value: {x: 0.23823895, y: -0.6703314, z: 0.24044108, w: 0.66036814}
+    m_Value: {x: -0.05305954, y: -0.77575314, z: 0.067300566, w: -0.62518996}
   m_Size:
-    m_Target: 52.077335
+    m_Target: 8.725133
     speed: 2
-    m_Value: 52.077335
+    m_Value: 8.725133
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -698,20 +698,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scenes
+    - Assets/Models/Enemies
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Models/Enemies
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\esteb\Documents\MyVRProjects\Capstone Project - Soul
     of the Jungle\Soul of the Jungle
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 1326}
-    m_SelectedIDs: 36300000
-    m_LastClickedID: 12342
-    m_ExpandedIDs: 000000002e290000ea290000ea2a0000102b0000322c0000f62c0000522d0000c82e00003e2f0000942f0000d82f0000da2f00009a310000a8320000d834000048350000ec350000a436000082370000fa3700008a380000cc380000ea3800002c3a00003c3b0000563b0000983b0000ba3b0000003c0000523c00002c4c00002e4c0000304c0000324c0000344c000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 718}
+    m_SelectedIDs: d8bc0000
+    m_LastClickedID: 48344
+    m_ExpandedIDs: 00000000e0ad00009eae0000a0af0000c6af0000e8b00000acb100000cb2000082b30000fcb3000056b400009ab400009cb4000060b6000070b70000a6b9000016ba0000baba000072bb000054bc0000d8bc000074bd0000b6bd0000d4bd000016bf000026c0000040c0000082c00000a8c00000f0c0000044c10000b2d10000b4d10000b6d10000b8d10000bad1000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -739,7 +739,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000002e290000ea290000ea2a0000102b0000322c0000f62c0000522d0000c82e00003e2f0000942f0000d82f0000da2f0000a8320000d834000048350000ec350000a436000082370000fa3700008a380000cc380000ea3800002c3a00003c3b0000563b0000983b0000ba3b0000003c0000523c00002c4c00002e4c0000304c0000324c0000344c0000
+    m_ExpandedIDs: 00000000e0ad00009eae0000a0af0000c6af0000e8b00000acb100000cb2000082b30000fcb3000056b400009ab400009cb4000060b6000070b70000a6b9000016ba0000baba000072bb000054bc0000d8bc000074bd0000b6bd0000d4bd000016bf000026c0000040c0000082c00000a8c00000f0c0000044c10000b2d10000b4d10000b6d10000b8d10000bad10000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -770,18 +770,18 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: c6230000000000004e3c0000c4380000943e0000604500007e460000543d0000043c00001e3300001a400000aa6600006e4f000090310000ca3700009e31000034a1efffae380000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Scenes
-      m_OriginalName: Scenes
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 12342
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_CreateAssetUtility:

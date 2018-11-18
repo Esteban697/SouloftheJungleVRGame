@@ -226,6 +226,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\ChargingDart.cs" />
+    <Compile Include="Assets\CrossbowShootHand2.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\DecalDestroyer.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ExtinguishableFire.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\GunAim.cs" />
@@ -233,6 +235,7 @@
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ParticleCollision.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ParticleExamples.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ParticleMenu.cs" />
+    <Compile Include="Assets\GhostSpawn.cs" />
     <Compile Include="Assets\GreenForest\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
     <Compile Include="Assets\GreenForest\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
     <Compile Include="Assets\GreenForest\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
@@ -278,8 +281,6 @@
     <Compile Include="Assets\GreenForest\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
     <Compile Include="Assets\GreenForest\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
     <Compile Include="Assets\GreenForest\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
-    <Compile Include="Assets\McGregorVoiceBridge.cs" />
-    <Compile Include="Assets\McGregorVoicesMagicSpell.cs" />
     <Compile Include="Assets\Scripts\ArrowStop.cs" />
     <Compile Include="Assets\Scripts\ChangeScene.cs" />
     <Compile Include="Assets\Scripts\ChargingArrow.cs" />
@@ -295,6 +296,8 @@
     <Compile Include="Assets\Scripts\JessicaCalling.cs" />
     <Compile Include="Assets\Scripts\JessicaHandReached.cs" />
     <Compile Include="Assets\Scripts\LookAtPlayer.cs" />
+    <Compile Include="Assets\Scripts\McGregorVoiceBridge.cs" />
+    <Compile Include="Assets\Scripts\McGregorVoicesMagicSpell.cs" />
     <Compile Include="Assets\Scripts\PoolArrows.cs" />
     <Compile Include="Assets\Scripts\Pull.cs" />
     <Compile Include="Assets\Scripts\RestartClimbPosition.cs" />
