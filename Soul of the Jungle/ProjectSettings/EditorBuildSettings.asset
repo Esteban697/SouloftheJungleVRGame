@@ -26,3 +26,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/8_Scene6.unity
     guid: d9795e8027126424bbecbc0d0ca6058b
+  - enabled: 1
+    path: Assets/Scenes/9_FinalScene.unity
+    guid: 78f5f75ad7d6286459426c8fb394879b

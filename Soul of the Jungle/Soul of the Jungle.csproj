@@ -289,6 +289,7 @@
     <Compile Include="Assets\Scripts\DartsPicked.cs" />
     <Compile Include="Assets\Scripts\DartStop.cs" />
     <Compile Include="Assets\Scripts\DeathManager.cs" />
+    <Compile Include="Assets\Scripts\DeathManagerFinal.cs" />
     <Compile Include="Assets\Scripts\FrameRateSet.cs" />
     <Compile Include="Assets\Scripts\GhostBehavior.cs" />
     <Compile Include="Assets\Scripts\GoalReached.cs" />
