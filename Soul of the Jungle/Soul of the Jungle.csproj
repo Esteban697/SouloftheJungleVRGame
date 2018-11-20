@@ -226,8 +226,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ChargingDart.cs" />
-    <Compile Include="Assets\CrossbowShootHand2.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\DecalDestroyer.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ExtinguishableFire.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\GunAim.cs" />
@@ -235,7 +233,6 @@
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ParticleCollision.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ParticleExamples.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ParticleMenu.cs" />
-    <Compile Include="Assets\GhostSpawn.cs" />
     <Compile Include="Assets\GreenForest\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
     <Compile Include="Assets\GreenForest\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
     <Compile Include="Assets\GreenForest\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
@@ -284,12 +281,16 @@
     <Compile Include="Assets\Scripts\ArrowStop.cs" />
     <Compile Include="Assets\Scripts\ChangeScene.cs" />
     <Compile Include="Assets\Scripts\ChargingArrow.cs" />
+    <Compile Include="Assets\Scripts\ChargingDart.cs" />
     <Compile Include="Assets\Scripts\ClimbingDynamics.cs" />
     <Compile Include="Assets\Scripts\ClimbingSounds.cs" />
+    <Compile Include="Assets\Scripts\CrossbowShootHand2.cs" />
     <Compile Include="Assets\Scripts\CrosssbowShootHand.cs" />
     <Compile Include="Assets\Scripts\DartsPicked.cs" />
+    <Compile Include="Assets\Scripts\DartStop.cs" />
     <Compile Include="Assets\Scripts\DeathManager.cs" />
     <Compile Include="Assets\Scripts\FrameRateSet.cs" />
+    <Compile Include="Assets\Scripts\GhostBehavior.cs" />
     <Compile Include="Assets\Scripts\GoalReached.cs" />
     <Compile Include="Assets\Scripts\HitFloorResetScene.cs" />
     <Compile Include="Assets\Scripts\JessicaAfraidSpiders.cs" />
@@ -298,6 +299,7 @@
     <Compile Include="Assets\Scripts\LookAtPlayer.cs" />
     <Compile Include="Assets\Scripts\McGregorVoiceBridge.cs" />
     <Compile Include="Assets\Scripts\McGregorVoicesMagicSpell.cs" />
+    <Compile Include="Assets\Scripts\MixedGhostSpawn.cs" />
     <Compile Include="Assets\Scripts\PoolArrows.cs" />
     <Compile Include="Assets\Scripts\Pull.cs" />
     <Compile Include="Assets\Scripts\RestartClimbPosition.cs" />
