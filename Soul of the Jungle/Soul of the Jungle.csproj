@@ -278,6 +278,7 @@
     <Compile Include="Assets\GreenForest\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
     <Compile Include="Assets\GreenForest\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
     <Compile Include="Assets\GreenForest\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
+    <Compile Include="Assets\HelicopterMove.cs" />
     <Compile Include="Assets\Scripts\ArrowStop.cs" />
     <Compile Include="Assets\Scripts\ChangeScene.cs" />
     <Compile Include="Assets\Scripts\ChargingArrow.cs" />
