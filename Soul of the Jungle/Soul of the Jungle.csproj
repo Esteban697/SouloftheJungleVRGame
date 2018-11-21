@@ -278,7 +278,6 @@
     <Compile Include="Assets\GreenForest\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
     <Compile Include="Assets\GreenForest\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
     <Compile Include="Assets\GreenForest\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
-    <Compile Include="Assets\HelicopterMove.cs" />
     <Compile Include="Assets\Scripts\ArrowStop.cs" />
     <Compile Include="Assets\Scripts\ChangeScene.cs" />
     <Compile Include="Assets\Scripts\ChargingArrow.cs" />
@@ -294,6 +293,7 @@
     <Compile Include="Assets\Scripts\FrameRateSet.cs" />
     <Compile Include="Assets\Scripts\GhostBehavior.cs" />
     <Compile Include="Assets\Scripts\GoalReached.cs" />
+    <Compile Include="Assets\Scripts\HelicopterMove.cs" />
     <Compile Include="Assets\Scripts\HitFloorResetScene.cs" />
     <Compile Include="Assets\Scripts\JessicaAfraidSpiders.cs" />
     <Compile Include="Assets\Scripts\JessicaCalling.cs" />

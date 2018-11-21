@@ -5,19 +5,17 @@ using UnityEngine;
 
 public class Pull : MonoBehaviour
 {
-
+    //Input from SteamVR
     public SteamVR_TrackedObject controller;
-
-    public float jumpForce;
-
+    //Previous position to update
     [HideInInspector]
     public Vector3 prevPos;
-
+    //Can grab the rock
     [HideInInspector]
     public bool canGrip;
     
 
-	// Use this for initialization
+	//Initialize prevPos
 	void Start ()
 	{
 	    prevPos = controller.transform.localPosition;
@@ -27,7 +25,7 @@ public class Pull : MonoBehaviour
     {
         canGrip = true;
     }
-
+    //Not touching objects that can be gripped
     void OnTriggerExit()
     {
         canGrip = false;
