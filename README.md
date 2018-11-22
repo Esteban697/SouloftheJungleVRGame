@@ -1,15 +1,18 @@
 # Capstone Project of the Udacity's VR Developer Nanodegree.
+### by Esteban Struve (Nov 2018)
 
-Description:
+### Description:
 This project is focused on transmitting fear of survival to the user. It is designed like a game to survive the Amazon jungle. It is both real and fitcional featuring animals and plants
 from the jungle but also evil spirits attacking the player. This project shows what I've learned during the terms of the Nanodegree of VR Developer from Udacity. Every aspect since the 
 conceptualization stage until performance optimization is done by me with free, non-copyright resources.
 
-Platform: Developed for SteamVR which is compatible wiht both Oculus Rift & HTC Vive
+###Platform: 
+Developed for SteamVR which is compatible wiht both Oculus Rift & HTC Vive
 Unity version 2017.2.0f3
 SteamVR SDK v1.2.3
 
-Build: The build is described as the following list of scenes
+### Build: 
+The build is described as the following list of scenes
 1_VideoIntro
 2_Scene0
 3_Scene1
@@ -20,14 +23,15 @@ Build: The build is described as the following list of scenes
 8_Scene6
 9_FinalScene
 
-Videos: 
+### Videos: 
 
 The video of the GamePlay:
-
+[YouTube: Soul of the Jungle - GamePlay](https://youtu.be/9BYCLTteVAM)
 The Video of the description of the project:
+[YouTube: Soul of the Jungle - Achievements](https://youtu.be/dUVt2ze7s6c)
 
-List of Achievements:
-Fundamentals:
+### List of Achievements:
+#### Fundamentals:
 Scale (100): Correctly use scale to make the user feel small or large relative to another object.
 User testing was used several times to make sure scales would be correctly perceived.
 
@@ -53,7 +57,7 @@ Shooting scenes are meant to provide the player the chance to defend an innocent
 Video Player (100 - 2x with Lighting): Create a video (does not have to be 360) and play it at some point during your experience.
 The video player is used in the second scene to explain the story of the game as a preamble to the action. The video was made entirely by me with non-copyright material.
 
-Completeness:
+#### Completeness:
 Gamification (250): Make your experience fun by adding in a reward system. You can choose to gamify your experience by rewarding achievement, exploration, or competition.
 The player is rewarded with moving on to the final shooting scene when completing the magic spell and given magic darts. 
 Every level creates the sense of going to higher ground and moving on to survive.
@@ -65,7 +69,7 @@ The natural way the hands move to show the player what to do allows the use of v
 3D Modelling (250): Create your own custom 3D model. This could be in a tool like Blender, Maya, or in a VR app like Tilt Brush or Medium.
 The bridge and the old TV was made by me in Maya 2018. In the video it is shown how I work to produce this simple 3D models costumized for this app.
 
-Challenges:
+#### Challenges:
 Speech Recognition (500): Use the microphone for input and use Speech to Text solutions as means to cause events in your world.
 The magic spell scene was exclusivemly created for this purpose. The player is instructed to repeat 4 strange words to unlock the chest and win the prize.
 
