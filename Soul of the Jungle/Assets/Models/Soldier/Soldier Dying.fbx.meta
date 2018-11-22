@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 95e9e5ea553f0e440b26b5710f93472a
-timeCreated: 1539865680
+guid: 86339eca702817e4083a351f2e0ae782
+timeCreated: 1542884163
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -153,7 +153,7 @@ ModelImporter:
     400144: swat:Spine2
     4300000: Soldier_head
     4300002: Soldier_body
-    7400000: Solderdie
+    7400000: Soldier Dying
     9500000: //RootNode
     13700000: Soldier_body
     13700002: Soldier_head
@@ -195,7 +195,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Solderdie
+      name: Soldier Dying
       takeName: mixamo.com
       firstFrame: 0
       lastFrame: 104
