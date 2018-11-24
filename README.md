@@ -58,7 +58,7 @@ Brief preset paths for the camera rig during the timelines programmed.
 Climbing locomotion for two scenes where the player needs to reach a place to move forwatd to the next scene.
 Standing and shooting scene where the player is fixed into a position but can use 6-DOF to perform the shooting action. Enemies come to the player.
 
-***Physics (100):** Simulate Physics forces in your experience. For example, depending on your experience, you may want to simulate gravity.
+**Physics (100):** Simulate Physics forces in your experience. For example, depending on your experience, you may want to simulate gravity.
 Physics is used for the player to fall when not grabbing to climb, for the arrows to shoot properly, to bounce and fall out or stay stuck into the floor.
 Colliders are disabled to prevent unwanted behaviour and bust performance of the application.
 
