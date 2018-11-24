@@ -13,20 +13,31 @@ SteamVR SDK v1.2.3
 
 ### Build: 
 The build is described as the following list of scenes
+
 1_VideoIntro
+
 2_Scene0
+
 3_Scene1
+
 4_Scene2
+
 5_Scene3
+
 6_Scene4
+
 7_Scene5
+
 8_Scene6
+
 9_FinalScene
+
 
 ### Videos: 
 
 The video of the GamePlay:
 [YouTube: Soul of the Jungle - GamePlay](https://youtu.be/9BYCLTteVAM)
+
 The Video of the description of the project:
 [YouTube: Soul of the Jungle - Achievements](https://youtu.be/dUVt2ze7s6c)
 
