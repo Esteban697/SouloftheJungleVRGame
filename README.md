@@ -45,6 +45,9 @@ The video of the GamePlay:
 The Video of the description of the project:
 [YouTube: Soul of the Jungle - Achievements](https://youtu.be/dUVt2ze7s6c)
 
+The Video of the GamePlay with Comments(normal speed):
+[YouTube: Soul of the Jungle - GamePlay with Comments](https://youtu.be/ApP3w2Mmru0)
+
 ### List of Achievements:
 #### Fundamentals:
 **Scale (100):** Correctly use scale to make the user feel small or large relative to another object.
