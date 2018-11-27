@@ -1,6 +1,8 @@
 # Capstone Project of the Udacity's VR Developer Nanodegree.
 ### by Esteban Struve (Nov 2018)
 
+<img src="logoblack.png" width=50 >
+
 ### Description:
 This project is focused on transmitting fear of survival to the user. It is designed like a game to survive the Amazon jungle. It is both real and fitcional featuring animals and plants
 from the jungle but also evil spirits attacking the player. This project shows what I've learned during the terms of the Nanodegree of VR Developer from Udacity. Every aspect since the 
