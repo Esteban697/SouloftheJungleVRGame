@@ -8,6 +8,8 @@ This project is focused on transmitting fear of survival to the user. It is desi
 from the jungle but also evil spirits attacking the player. This project shows what I've learned during the terms of the Nanodegree of VR Developer from Udacity. Every aspect since the 
 conceptualization stage until performance optimization is done by me with free, non-copyright resources.
 
+<img src="SouloftheJunglePoster">
+
 ### Platform: 
 Developed for SteamVR which is compatible wiht both Oculus Rift & HTC Vive
 Unity version 2017.2.0f3
